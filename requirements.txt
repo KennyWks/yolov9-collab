@@ -13,7 +13,7 @@ torchvision>=0.8.1,!=0.13.0
 tqdm>=4.41.0
 protobuf==4.21.6
 decorator==4.4.2
-absl-py==1.0.0
+absl-py==2.1.0
 
 # Logging -------------------------------------
 tensorboard==2.17
